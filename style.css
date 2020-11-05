@@ -9,4 +9,7 @@ h1 {
     }
 img {
     float: left;
-    margin: 10px;}
+    margin: 5px;}
+p   {
+    font-size: 20px;
+}
